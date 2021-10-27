@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Royabot2021'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_008915B0AC794E709F415532557F4C1B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EFF63AAEBCE34103943839A079559805 }}
           package: .
